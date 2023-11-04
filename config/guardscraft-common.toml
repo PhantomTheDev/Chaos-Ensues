@@ -1,0 +1,157 @@
+
+[guards]
+
+	[guards.milician]
+		#The health of the milician. (Default : 50)
+		#Range: 0 ~ 999999999
+		milician_health = 50
+		#The attack damage of the milician. (Default : 2)
+		#Range: 0 ~ 999999999
+		milician_attack_damage = 2
+		#The armor of the milician. (Default : 0)
+		#Range: 0 ~ 999999999
+		milician_armor = 0
+		#The cost of the milician. (Default : 1)
+		#Range: 0 ~ 999999999
+		milician_cost = 100
+
+	[guards.swordman]
+		#The health of the swordman. (Default : 50)
+		#Range: 0 ~ 999999999
+		swordman_health = 50
+		#The attack damage of the swordman. (Default : 3)
+		#Range: 0 ~ 999999999
+		swordman_attack_damage = 3
+		#The armor of the swordman. (Default : 15)
+		#Range: 0 ~ 999999999
+		swordman_armor = 15
+		#The cost of the swordman. (Default : 2)
+		#Range: 0 ~ 999999999
+		swordman_cost = 2
+
+	[guards.lancer]
+		#The health of the lancer. (Default : 50)
+		#Range: 0 ~ 999999999
+		lancer_health = 50
+		#The attack damage of the lancer. (Default : 3)
+		#Range: 0 ~ 999999999
+		lancer_attack_damage = 3
+		#The armor of the lancer. (Default : 10)
+		#Range: 0 ~ 999999999
+		lancer_armor = 10
+		#The cost of the lancer. (Default : 3)
+		#Range: 0 ~ 999999999
+		lancer_cost = 3
+
+	[guards.malletman]
+		#The health of the malletman. (Default : 50)
+		#Range: 0 ~ 999999999
+		malletman_health = 50
+		#The attack damage of the malletman. (Default : 3)
+		#Range: 0 ~ 999999999
+		malletman_attack_damage = 3
+		#The armor of the malletman. (Default : 15)
+		#Range: 0 ~ 999999999
+		malletman_armor = 15
+		#The cost of the malletman. (Default : 4)
+		#Range: 0 ~ 999999999
+		malletman_cost = 4
+
+	[guards.axeman]
+		#The health of the axeman. (Default : 50)
+		#Range: 0 ~ 999999999
+		axeman_health = 50
+		#The attack damage of the axeman. (Default : 3)
+		#Range: 0 ~ 999999999
+		axeman_attack_damage = 3
+		#The armor of the axeman. (Default : 20)
+		#Range: 0 ~ 999999999
+		axeman_armor = 20
+		#The cost of the axeman. (Default : 5)
+		#Range: 0 ~ 999999999
+		axeman_cost = 5
+
+	[guards.halberdier]
+		#The health of the halberdier. (Default : 50)
+		#Range: 0 ~ 999999999
+		halberdier_health = 50
+		#The attack damage of the halberdier. (Default : 3)
+		#Range: 0 ~ 999999999
+		halberdier_attack_damage = 2
+		#The armor of the halberdier. (Default : 20)
+		#Range: 0 ~ 999999999
+		halberdier_armor = 20
+		#The cost of the halberdier. (Default : 6)
+		#Range: 0 ~ 999999999
+		halberdier_cost = 6
+
+	[guards.javelinier]
+		#The health of the javelinier. (Default : 50)
+		#Range: 0 ~ 999999999
+		javelinier_health = 50
+		#The attack damage of the javelinier. (Default : 2)
+		#Range: 0 ~ 999999999
+		javelinier_attack_damage = 2
+		#The armor of the javelinier. (Default : 5)
+		#Range: 0 ~ 999999999
+		javelinier_armor = 5
+		#The cost of the javelinier. (Default : 1)
+		#Range: 0 ~ 999999999
+		javelinier_cost = 1
+
+	[guards.bowman]
+		#The health of the bowman. (Default : 50)
+		#Range: 0 ~ 999999999
+		bowman_health = 50
+		#The attack damage of the bowman. (Default : 1)
+		#Range: 0 ~ 999999999
+		bowman_attack_damage = 1
+		#The armor of the bowman. (Default : 5)
+		#Range: 0 ~ 999999999
+		bowman_armor = 5
+		#The cost of the bowman. (Default : 3)
+		#Range: 0 ~ 999999999
+		bowman_cost = 3
+
+	[guards.heavy_bowman]
+		#The health of the heavy bowman. (Default : 50)
+		#Range: 0 ~ 999999999
+		heavy_bowman_health = 50
+		#The attack damage of the heavy bowman. (Default : 2)
+		#Range: 0 ~ 999999999
+		heavy_bowman_attack_damage = 2
+		#The armor of the heavy bowman. (Default : 10)
+		#Range: 0 ~ 999999999
+		heavy_bowman_armor = 10
+		#The cost of the heavy bowman. (Default : 4)
+		#Range: 0 ~ 999999999
+		heavy_bowman_cost = 4
+
+	[guards.crossbowman]
+		#The health of the crossbowman. (Default : 50)
+		#Range: 0 ~ 999999999
+		crossbowman_health = 50
+		#The attack damage of the crossbowman. (Default : 2)
+		#Range: 0 ~ 999999999
+		crossbowman_attack_damage = 2
+		#The armor of the crossbowman. (Default : 15)
+		#Range: 0 ~ 999999999
+		crossbowman_armor = 15
+		#The cost of the crossbowman. (Default : 5)
+		#Range: 0 ~ 999999999
+		crossbowman_cost = 5
+
+	[guards.naphtha_thrower]
+		#The health of the naphtha thrower. (Default : 50)
+		#Range: 0 ~ 999999999
+		naphtha_thrower_health = 50
+		#The attack damage of the naphtha thrower. (Default : 1)
+		#Range: 0 ~ 999999999
+		naphtha_thrower_attack_damage = 1
+		#The armor of the naphtha thrower. (Default : 5)
+		#Range: 0 ~ 999999999
+		naphtha_thrower_armor = 5
+		#The cost of the naphtha thrower. (Default : 6)
+		#Range: 0 ~ 999999999
+		naphtha_thrower_cost = 6
+

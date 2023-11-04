@@ -1,0 +1,11 @@
+.curseclient
+essential/
+logs/
+mods/
+saves/
+screenshots/
+crash-reports/
+usercache.json
+usernamecache.json
+whitelist.json
+ops.json

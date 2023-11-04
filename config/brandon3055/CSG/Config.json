@@ -1,0 +1,15 @@
+{
+  "inventory": {
+    "0:0": "{id:\"silentgear:blueprint_package\",Count:1b,tag:{temperature:0.0d,silentlib.LootContainer:{LootTable:\"silentgear:starter_blueprints\"}}}",
+    "0:2": "{id:\"tac:m1911\",Count:1b,tag:{tac.isSelected:1b,AmmoCount:7,CurrentFireMode:1,level:1,supportedFireModes:[I;1],temperature:0.0d,ID:[I;964485059,-411286743,-2129375102,-459415384],levelDmg:31.077644f,Attachments:{}}}",
+    "0:1": "{id:\"tac:round45\",Count:48b,tag:{temperature:0.0d}}"
+  },
+  "kits": {
+    "Starter": {
+      "0:0": "{id:\"silentgear:blueprint_package\",Count:1b,tag:{temperature:0.0d,silentlib.LootContainer:{LootTable:\"silentgear:starter_blueprints\"}}}",
+      "0:2": "{id:\"tac:m1911\",Count:1b,tag:{tac.isSelected:1b,AmmoCount:7,CurrentFireMode:1,level:1,supportedFireModes:[I;1],temperature:0.0d,ID:[I;964485059,-411286743,-2129375102,-459415384],levelDmg:31.077644f,Attachments:{}}}",
+      "0:1": "{id:\"tac:round45\",Count:48b,tag:{temperature:0.0d}}"
+    }
+  },
+  "wipeBlacklist": []
+}
